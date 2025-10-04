@@ -1,0 +1,47 @@
+{
+  "period": "2025-09",
+  "entries": [
+    {
+      "userHash": "4f71ae66706710b6d8bbfc72fe972e6f2807f4a7a6f6821de03bc47a5f6548ad",
+      "score": 15,
+      "createdAt": "2025-09-28T10:15:09.395Z",
+      "updatedAt": "2025-09-28T10:15:16.839Z"
+    },
+    {
+      "userHash": "4f19628ae1f26a7b1cc771cbb376ad499c20fad98b04ac92d94f198a46172975",
+      "score": 1,
+      "createdAt": "2025-09-28T10:17:01.540Z"
+    },
+    {
+      "userHash": "023af63f4397f58af9cf1a93172c883ea1c0203b08e8cf49574e2be8f201d591",
+      "score": 82,
+      "createdAt": "2025-09-28T10:30:08.594Z"
+    },
+    {
+      "userHash": "3ac1bb5333bb84ab601d6aebd062edd3842dbb9377b26532a3ff684e70e81b34",
+      "score": 27,
+      "createdAt": "2025-09-28T10:34:06.821Z"
+    },
+    {
+      "userHash": "a7347c6fbde0cdd8ea42b193b4c59d70cf4f9a5acdeecbe4582112dedfb89a0f",
+      "score": 17,
+      "createdAt": "2025-09-28T10:53:27.172Z"
+    },
+    {
+      "userHash": "382544d2fa63eedfc1b01658b81f544e50b71d16053a9105de868c5e8bf052e4",
+      "score": 43.78,
+      "createdAt": "2025-09-28T11:08:19.016Z"
+    },
+    {
+      "userHash": "c3fac6553ffe328d6942ccb78124421ef17a8299f914510245811b01709fb2a6",
+      "score": 3.39,
+      "createdAt": "2025-09-28T11:11:11.037Z",
+      "updatedAt": "2025-09-28T11:21:41.245Z"
+    },
+    {
+      "userHash": "691451e086f616dbaf5b44e8a6b40dcf30f64be1341d25952b787563ce5fecfd",
+      "score": 7,
+      "createdAt": "2025-09-28T11:11:57.530Z"
+    }
+  ]
+}
